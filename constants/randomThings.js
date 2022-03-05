@@ -15,7 +15,10 @@ const urls = [
     title: 'beers from <strong>punkapi.com</strong>',
     name: 'punkapi.com',
     url: 'https://api.punkapi.com/v2/beers/random',
-    extract: (body) => `${body.name}<br>${body.tagline}`
+    extract: (body) => {
+      const [article] = body;
+      return `${article.name}<br>${article.tagline}`
+    }
   }
 ];
 

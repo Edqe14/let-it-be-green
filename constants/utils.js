@@ -18,6 +18,7 @@ async function getRandomThings() {
   const { name, url, extract, title } = random(randomThings);
   const body = JSON.parse(await miniget(url).text());
   const text = extract(body);
+  console.log(name, body)
 
   const struct = {
     title,
