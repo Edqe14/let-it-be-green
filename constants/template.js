@@ -29,6 +29,8 @@ Absolutely! Just go to the \`writer.js\` code conveniently sitting at the root d
 
 You could also change how frequent the job occurs. Just modify the **\`runner.yml\`** file at \`.github/workflows\`, \`schedule\` section. Feel free to change the cronjob to something reasonable.
 
+**Don't forget to change the Git email and username!!**
+
 <sub>Don't know how to cronjob? [Take this with you](https://crontab.guru)</sub>
 
 ## 📋 What about licensing?
