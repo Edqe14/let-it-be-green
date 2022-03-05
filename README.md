@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Choco Libre<br>Tagline: Mexican Hot Chocolate Imperial Stout.</h3>
+  <h3>I Wanna Be Your Dog<br>Tagline: Omnipollo X BrewDog - Barrel Aged Imperial Stout.</h3>
 
   <br>
 </div>
@@ -36,4 +36,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>05/03/2022, 21:54:12 UTC</strong></sub>
+<sub>Last updated at <strong>05/03/2022, 21:54:42 UTC</strong></sub>
