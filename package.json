@@ -1,0 +1,13 @@
+{
+  "name": "let-it-be-green",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Edqe14 <34704796+Edqe14@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "miniget": "^4.2.2"
+  },
+  "scripts": {
+    "start": "node writer.js"
+  }
+}
