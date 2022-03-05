@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>I Wanna Be Your Dog<br>Tagline: Omnipollo X BrewDog - Barrel Aged Imperial Stout.</h3>
+  <h3>Hello My Name Is Ingrid 2016<br>Tagline: Cloudberry Double IPA</h3>
 
   <br>
 </div>
@@ -28,6 +28,8 @@ Absolutely! Just go to the `writer.js` code conveniently sitting at the root dir
 
 You could also change how frequent the job occurs. Just modify the **`runner.yml`** file at `.github/workflows`, `schedule` section. Feel free to change the cronjob to something reasonable.
 
+**Don't forget to change the Git email and username!!**
+
 <sub>Don't know how to cronjob? [Take this with you](https://crontab.guru)</sub>
 
 ## 📋 What about licensing?
@@ -36,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>05/03/2022, 21:54:42 UTC</strong></sub>
+<sub>Last updated at <strong>05/03/2022, 21:58:14 UTC</strong></sub>
