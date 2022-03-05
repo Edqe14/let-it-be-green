@@ -4,10 +4,10 @@ const template = require('./constants/template');
 const { replace, getRandomThings } = require('./constants/utils');
 
 (async () => {
-  const { title, thing } = await getRandomThings();
+  const { title, text } = await getRandomThings();
   const generated = replace(template, {
     random_title: title,
-    random_things: thing,
+    random_things: text,
     last_updated: new Date().toLocaleString('en-GB', {
       timeZone: 'UTC',
       timeZoneName: 'short'
