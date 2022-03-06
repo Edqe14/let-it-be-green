@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Hello My Name Is Ingrid 2016<br>Tagline: Cloudberry Double IPA</h3>
+  <h3>Mr.Miyagi's Wasabi Stout<br>Tagline: Spicy Stout Brewed By Aberdeen Bar Staff.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>05/03/2022, 21:58:14 UTC</strong></sub>
+<sub>Last updated at <strong>06/03/2022, 12:19:27 UTC</strong></sub>
