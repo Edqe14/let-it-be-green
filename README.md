@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>The generation of random numbers is too important to be left to chance.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Hold a yard sale</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>06/03/2022, 18:13:59 UTC</strong></sub>
+<sub>Last updated at <strong>07/03/2022, 12:21:01 UTC</strong></sub>
