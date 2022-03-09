@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Hop Fiction - Prototype Challenge<br>Tagline: US-Style Pale Ale.</h3>
+  <h3>Hunter Foundation Pale Ale<br>Tagline: American Pale Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>08/03/2022, 18:14:59 UTC</strong></sub>
+<sub>Last updated at <strong>09/03/2022, 12:21:13 UTC</strong></sub>
