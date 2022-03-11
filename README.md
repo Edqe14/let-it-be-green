@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Growler<br>Tagline: Citra Hopped Pilsner</h3>
+  <h3>Blitz Berliner Weisse<br>Tagline: Berliner Fruit Beer.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>10/03/2022, 18:15:02 UTC</strong></sub>
+<sub>Last updated at <strong>11/03/2022, 12:21:00 UTC</strong></sub>
