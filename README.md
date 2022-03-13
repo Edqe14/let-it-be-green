@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>A programmer puts two glasses on his bedside table before going to sleep.<br>A full one, in case he gets thirsty, and an empty one, in case he doesn't.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Play basketball with a group of friends</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>12/03/2022, 18:14:21 UTC</strong></sub>
+<sub>Last updated at <strong>13/03/2022, 12:19:49 UTC</strong></sub>
