@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Make tie dye shirts</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Small Batch: East Coast Crush<br>Tagline: Session Vermont IPA.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>14/03/2022, 12:21:15 UTC</strong></sub>
+<sub>Last updated at <strong>14/03/2022, 18:15:26 UTC</strong></sub>
