@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>AB:21<br>Tagline: Liquorice Blackcurrant Stout.</h3>
+  <h3>Science IPA<br>Tagline: India Pale Ale</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>15/03/2022, 12:21:40 UTC</strong></sub>
+<sub>Last updated at <strong>15/03/2022, 18:15:32 UTC</strong></sub>
