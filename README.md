@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Clean out your refrigerator</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Nanny State<br>Tagline: Alcohol Free Hoppy Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>17/03/2022, 12:22:30 UTC</strong></sub>
+<sub>Last updated at <strong>17/03/2022, 18:15:09 UTC</strong></sub>
