@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Hello My Name Is Agnetha<br>Tagline: Lingonberry Double IPA.</h3>
+  <h3>Blitz Series<br>Tagline: Fruit Infused Berlinerweisse.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>18/03/2022, 18:15:04 UTC</strong></sub>
+<sub>Last updated at <strong>19/03/2022, 12:20:40 UTC</strong></sub>
