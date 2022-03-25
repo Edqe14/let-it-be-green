@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Blitz Saison<br>Tagline: Lemon & coriander Berliner Weisse</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>Two SQL tables sit at the bar. A query approaches and asks "Can I join you?"</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>25/03/2022, 12:47:52 UTC</strong></sub>
+<sub>Last updated at <strong>25/03/2022, 18:16:16 UTC</strong></sub>
