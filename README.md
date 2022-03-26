@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Magic Stone Dog (w/Magic Rock & Stone Brewing Co.)<br>Tagline: Session Farmhouse IPA - Stone / Magic Rock Collab.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Organize your basement</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>26/03/2022, 12:19:56 UTC</strong></sub>
+<sub>Last updated at <strong>26/03/2022, 18:14:36 UTC</strong></sub>
