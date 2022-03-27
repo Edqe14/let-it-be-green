@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Organize your basement</h3>
+  <h3>Uninstall unused apps from your devices</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>26/03/2022, 18:14:36 UTC</strong></sub>
+<sub>Last updated at <strong>27/03/2022, 12:20:11 UTC</strong></sub>
