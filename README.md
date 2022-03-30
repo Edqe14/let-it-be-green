@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Make Earth Great Again<br>Tagline: Cloudberry Saison.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Go to a concert with some friends</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>29/03/2022, 18:15:34 UTC</strong></sub>
+<sub>Last updated at <strong>30/03/2022, 12:23:43 UTC</strong></sub>
