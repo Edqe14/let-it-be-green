@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Go for a walk</h3>
+  <h4>Random beers from <strong>punkapi.com</strong></h4>
+  <h3>Small Batch: Lemon Meringue Pie<br>Tagline: Experimental Dessert Beer.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>31/03/2022, 12:24:26 UTC</strong></sub>
+<sub>Last updated at <strong>31/03/2022, 18:16:21 UTC</strong></sub>
