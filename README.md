@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
-  <h3>To whoever stole my copy of Microsoft Office, I will find you. You have my Word!</h3>
+  <h3>If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>03/04/2022, 18:14:46 UTC</strong></sub>
+<sub>Last updated at <strong>04/04/2022, 12:22:49 UTC</strong></sub>
