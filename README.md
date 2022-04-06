@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Write a thank you letter to an influential person in your life</h3>
+  <h4>Random jokes from <strong>jokeapi.dev</strong></h4>
+  <h3>A guy walks into a bar and asks for 1.4 root beers.<br>The bartender says "I'll have to charge you extra, that's a root beer float".<br>The guy says "In that case, better make it a double."</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>05/04/2022, 18:15:42 UTC</strong></sub>
+<sub>Last updated at <strong>06/04/2022, 12:24:38 UTC</strong></sub>
