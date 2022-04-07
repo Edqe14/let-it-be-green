@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Lumberjack Stout<br>Tagline: Blueberry Bacon Stout.</h3>
+  <h3>Doodlebug<br>Tagline: Hoppy Sub-Session Pale Ale.</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>06/04/2022, 18:16:16 UTC</strong></sub>
+<sub>Last updated at <strong>07/04/2022, 12:24:02 UTC</strong></sub>
