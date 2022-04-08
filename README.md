@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Volunteer at a local animal shelter</h3>
+  <h3>Organize your music collection</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>07/04/2022, 18:15:36 UTC</strong></sub>
+<sub>Last updated at <strong>08/04/2022, 12:24:09 UTC</strong></sub>
