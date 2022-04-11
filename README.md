@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Make a budget</h3>
+  <h3>Learn how to use a french press</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>10/04/2022, 18:15:26 UTC</strong></sub>
+<sub>Last updated at <strong>11/04/2022, 12:23:26 UTC</strong></sub>
