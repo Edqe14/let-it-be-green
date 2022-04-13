@@ -9,7 +9,7 @@
   <br>
 
   <h4>Random activity from <strong>boredapi.com</strong></h4>
-  <h3>Write a note of appreciation to someone</h3>
+  <h3>Write a song</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>12/04/2022, 18:15:53 UTC</strong></sub>
+<sub>Last updated at <strong>13/04/2022, 12:22:39 UTC</strong></sub>
