@@ -8,8 +8,8 @@
 
   <br>
 
-  <h4>Random beers from <strong>punkapi.com</strong></h4>
-  <h3>Coffee Imperial Stout<br>Tagline: Beats a Cup of Joe.</h3>
+  <h4>Random activity from <strong>boredapi.com</strong></h4>
+  <h3>Go for a walk</h3>
 
   <br>
 </div>
@@ -38,4 +38,4 @@ This project is licensed under the [Unlicense](https://unlicense.org) license.
 
 <br>
 
-<sub>Last updated at <strong>13/04/2022, 18:15:50 UTC</strong></sub>
+<sub>Last updated at <strong>14/04/2022, 12:26:43 UTC</strong></sub>
